@@ -6,8 +6,7 @@ export default class App extends Component {
 
     return (
 
-<>
-      <section>App</section>
+      
       <section>App</section>
       </>
     )
