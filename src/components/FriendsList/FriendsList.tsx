@@ -1,11 +1,14 @@
 import React, { Component } from 'react';
 //data
 import { friendsData } from './../../data';
+//
+//styles
+import { Wrapper } from './FriendsList.styles'
 
 export default class FriendsList extends Component {
   render() {
     return (
-        <section>
+        <Wrapper>
                 <ul>
                 {friendsData.map((item) => {
                     return (
@@ -16,7 +19,7 @@ export default class FriendsList extends Component {
                     )
                 })}
                 </ul>
-            </section>
+            </Wrapper>
     )
   }
 }
