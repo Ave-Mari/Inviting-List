@@ -9,8 +9,6 @@ export default class App extends Component {
 <>
       <section>App</section>
       <section>App</section>
-      <section>App</section>
-      <section>App</section>
       </>
     )
   }
