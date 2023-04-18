@@ -1,6 +1,6 @@
 type friendsData = {name: string, pic: string}[]
 
-const friendsData = [
+export const friendsData = [
     {
         name: 'Paul Black',
         pic: 'https://img.freepik.com/free-photo/waist-up-portrait-handsome-serious-unshaven-male-keeps-hands-together-dressed-dark-blue-shirt-has-talk-with-interlocutor-stands-against-white-wall-self-confident-man-freelancer_273609-16320.jpg?t=st=1681845876~exp=1681846476~hmac=b717d86f7e5743e5f2c9aae4c8e1edb7523a071f71393cc6f201b4593974d33e'
