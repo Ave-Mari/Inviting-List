@@ -10,6 +10,10 @@ export const friendsData = [
         pic: 'https://img.freepik.com/free-photo/young-businessman-siting-cafeteria-with-laptop-computer-table_342744-455.jpg?w=996&t=st=1681845976~exp=1681846576~hmac=459d4d3c719b6f17dceefbbed391a0fd69e91db87a2e0818048ab27ac0e01526'
     },
     {
+        name: 'Kaan Archer',
+        pic: 'https://images.pexels.com/photos/3051652/pexels-photo-3051652.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
+    },
+    {
         name: 'Jenny Curran',
         pic: 'https://img.freepik.com/free-photo/positive-carefree-european-woman-dances-with-rhythm-music-listens-favorite-song-via-headphones-wears-knitted-orange-sweater-smiles-broadly-isolated-purple-background-foolishes-around_273609-58571.jpg?w=996&t=st=1681845876~exp=1681846476~hmac=2b555bee01d67895b4c15336f5e75c4b27855c06fcfe18e6b084c3edd6d93339'
     },
@@ -41,4 +45,28 @@ export const friendsData = [
         name: 'Liam Bush',
         pic: 'https://img.freepik.com/free-photo/cool-guy-shows-his-finger-up-listens-music-orange-background-portrait-darkskinned-man-blue-tee-dancing-isolated-backdrop_197531-28583.jpg?w=996&t=st=1681846111~exp=1681846711~hmac=575b88311ac9d7efa025f30c6f0febe20cb2e34d479091ccc0adbf08ca1a304c'
     },
+    {
+        name: 'Katy Dyer',
+        pic: 'https://images.pexels.com/photos/14517588/pexels-photo-14517588.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
+    },
+    {
+        name: 'Lester Castaneda',
+        pic: 'https://images.pexels.com/photos/792326/pexels-photo-792326.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
+    },
+    {
+        name: 'Emilio Cross',
+        pic: 'https://images.pexels.com/photos/2896853/pexels-photo-2896853.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
+    },
+    {
+        name: 'Kirsten Winter',
+        pic: 'https://images.pexels.com/photos/774095/pexels-photo-774095.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
+    },
+    {
+        name: 'Gina Dickerson',
+        pic: 'https://images.pexels.com/photos/2313635/pexels-photo-2313635.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
+    },
+    {
+        name: 'James Guerra',
+        pic: 'https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
+    }
 ]
