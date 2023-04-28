@@ -1,18 +1,22 @@
 import React, { Component } from 'react';
 //data
-import { friendsData } from './../../data';
+import { friendsData } from '../../data';
+//styles
+import { Card } from './FriendCard.styles'
 
 const FriendCard = () => {  
     return (
         <>
         {friendsData.map((item) => {
             return (
-            <li>
+            <Card>
                 <img src={item.pic} alt={item.name}></img>
                 <p>{item.name}</p>
-            </li>
+                <button>+</button>
+            </Card>
+            
             )
-        })}
+        })}        
         </>
     )
 
