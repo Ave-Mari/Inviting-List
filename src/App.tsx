@@ -5,14 +5,11 @@ import FriendsList from './components/FriendsList/FriendsList';
 
 
 
-export default class App extends Component {
- 
-  render() {
-
+export const App =( ) => { 
     return (
       <main>      
       <FriendsList />
       </main>
     )
-  }
+
 }

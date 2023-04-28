@@ -2,8 +2,7 @@ import React, { Component } from 'react';
 //data
 import { friendsData } from './../../data';
 
-export default class FriendCard extends Component {
-  render() {
+const FriendCard = () => {  
     return (
         <>
         {friendsData.map((item) => {
@@ -16,5 +15,7 @@ export default class FriendCard extends Component {
         })}
         </>
     )
-  }
+
 }
+
+export default FriendCard;

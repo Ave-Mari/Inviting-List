@@ -1,25 +1,21 @@
 import React, { Component } from 'react';
-//data
-import { friendsData } from './../../data';
-//
 //styles
-import { Wrapper } from './FriendsList.styles'
+import { Wrapper } from './FriendsList.styles';
+//components
+import FriendCard from '../FrinedCard/FriendCard';
 
-export default class FriendsList extends Component {
-  render() {
+const FriendsList = () => {
+
     return (
         <Wrapper>
+          <button>All</button>
+          <button>School</button>
+          <button>Work</button>
                 <ul>
-                {friendsData.map((item) => {
-                    return (
-                    <li>
-                        <img src={item.pic} alt={item.name}></img>
-                        <p>{item.name}</p>
-                    </li>
-                    )
-                })}
+                <FriendCard />
                 </ul>
             </Wrapper>
     )
-  }
 }
+ 
+export default FriendsList;
