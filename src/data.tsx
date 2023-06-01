@@ -11,7 +11,7 @@ export const friendsData = [
     },
     {
         name: 'Kaan Archer',
-        pic: 'https://images.pexels.com/photos/3051652/pexels-photo-3051652.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
+        pic: 'https://plus.unsplash.com/premium_photo-1676389758323-11123063f6dd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Njd8fGd1eXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60'
     },
     {
         name: 'Jenny Curran',
@@ -47,26 +47,26 @@ export const friendsData = [
     },
     {
         name: 'Katy Dyer',
-        pic: 'https://images.pexels.com/photos/14517588/pexels-photo-14517588.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
+        pic: 'https://img.freepik.com/premium-photo/beautiful-blond-middle-aged-woman-relaxing-sitting-on-sofa_484651-7099.jpg'
     },
     {
         name: 'Lester Castaneda',
-        pic: 'https://images.pexels.com/photos/792326/pexels-photo-792326.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
+        pic: 'https://img.freepik.com/premium-photo/mma-fight-and-man-with-hand-wrap-queer-and-fitness-for-wellness-sports-and-studio-background-gay-guy-male-fighter-and-warrior-with-hands-ready-for-match-competition-and-athlete-with-motivation_590464-151938.jpg?w=740'
     },
     {
         name: 'Emilio Cross',
-        pic: 'https://images.pexels.com/photos/2896853/pexels-photo-2896853.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
+        pic: 'https://images.unsplash.com/photo-1507081323647-4d250478b919?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTB8fGd1eXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60'
     },
     {
         name: 'Kirsten Winter',
-        pic: 'https://images.pexels.com/photos/774095/pexels-photo-774095.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
+        pic: 'https://images.unsplash.com/photo-1525299374597-911581e1bdef?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80'
     },
     {
         name: 'Gina Dickerson',
-        pic: 'https://images.pexels.com/photos/2313635/pexels-photo-2313635.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
+        pic: 'https://img.freepik.com/free-photo/school-scene-with-queer-teens_23-2150379421.jpg?w=740&t=st=1684171450~exp=1684172050~hmac=a118397cbd2853a610e315dbc1d2e2d069ecca4a38835db4e897444aaff3f0f3'
     },
     {
         name: 'James Guerra',
-        pic: 'https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
+        pic: 'https://img.freepik.com/free-photo/school-scene-with-queer-teens_23-2150379424.jpg?w=740&t=st=1684171446~exp=1684172046~hmac=35aa678b716f3374d87d77565fe142eadcdf64536d37d4b024d464e00fddcc92'
     }
 ]
