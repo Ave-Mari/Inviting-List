@@ -5,7 +5,6 @@ import { Wrapper } from './FriendsList.styles';
 import FriendCard from '../FriendCard/FriendCard';
 
 const FriendsList = () => {
-
     return (
         <Wrapper>
           <div className="bts-wrapper">
